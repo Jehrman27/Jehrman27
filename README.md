@@ -1,5 +1,5 @@
 👋 Hi there, I’m Jonathan (he/him)  
-I'm a passionate Front End Developer with a love for building engaging and user-friendly web applications.  
+I'm a passionate Front-End Developer with a love for building engaging and user-friendly web applications.  
 
 When I’m not coding, you’ll likely find me:  
 🎮 Immersed in video games or board games  
