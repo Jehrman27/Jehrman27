@@ -11,8 +11,9 @@ When I’m not coding, you’ll likely find me:
 As a Front End Developer, I specialize in creating clean, functional, and scalable user interfaces. I'm currently honing my skills in modern frameworks like React and Svelte, as well as exploring tools like TailwindCSS for sleek design and efficient development.  
 
 📌 Let's Connect:  
-💼 [LinkedIn](https://www.linkedin.com/in/jonathan-ehrmantraut/)  \
-💻 Check out my projects right here on [GitHub](https://github.com/jehr_)  
+💼 [LinkedIn](https://www.linkedin.com/in/jonathan-ehrmantraut/)  
+💻 Dive into my projects here on [GitHub](https://github.com/jehr_)  
+:house: Keep up with what I'm working on on my [Portfolio Website](https://ehrmantraut.me)  
 
 💡 Fun Fact - I can solve a Rubik's cube in under a minute! 
 
